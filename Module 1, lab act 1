@@ -1,0 +1,6 @@
+public class HelloJava {
+    public static void main(String[] args) {
+        System.out.println("My name is GREG JAMES C. ILAO");
+        System.out.println("My favorite quote is: \"Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime.\"");
+    }
+}
